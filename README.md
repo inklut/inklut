@@ -3,4 +3,4 @@ En los últimos años, el diseño de experiencia de usuario se ha convertido en 
 
 [Sitio Oficial](https://inklut.com)
 
-<sup>Derechos reservados <a href="https://avro.dev/">garyavendanio</a></sup>
+<sup>Derechos reservados <a href="https://avro.dev/" target="_blank">garyavendanio</a></sup>
